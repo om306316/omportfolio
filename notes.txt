@@ -7,3 +7,5 @@ npm install sass
 
 changing from npm to yarn
 "npm": "8.11.0" -> 1.22.19
+
+npm install --global yarn@1.22.10
