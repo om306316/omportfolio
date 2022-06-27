@@ -1,0 +1,9 @@
+#just uninstall node-sass and install sass-loader and sass
+
+npm uninstall node-sass
+
+npm install sass-loader
+npm install sass
+
+changing from npm to yarn
+"npm": "8.11.0" -> 1.22.19
